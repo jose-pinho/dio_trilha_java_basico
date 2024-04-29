@@ -1,3 +1,4 @@
+package edu.jose_pinho.semanaum;
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         String meuNome="José Augusto";
