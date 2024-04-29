@@ -16,6 +16,6 @@ public class TiposVariaveis {
         System.out.print(numero);
 
         final double VALOR_DE_PI = 3.14;//"final" transforma variavel em constante = Por convenção constante são escritas em caixa alta;
-
+        System.out.print(VALOR_DE_PI);
     }
 }
