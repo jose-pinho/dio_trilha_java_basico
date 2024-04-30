@@ -30,4 +30,5 @@ public class SmartTv{
     public void diminuirCanal(){
         canal--;
         System.out.println("Mudando o canal para: "+canal);
+    }   
 }
